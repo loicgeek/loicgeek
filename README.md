@@ -2,7 +2,7 @@
 <a href="https://discord.gg/loicgeek🇨🇲#5376">
   <img align="left" alt="Loic's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/ngou_loi">
+<a href="https://twitter.com/ngou_loic">
   <img align="left" alt="Loic NGOU | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/loic-ngou/">
@@ -10,7 +10,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://komarev.com/ghpvc/?username=loicgeek)
 
 <br />
 
