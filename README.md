@@ -5,7 +5,7 @@ Douala, Cameroon
 loic.ngou98@gmail.com   
 https://linkedin.com/in/loic-ngou
 
-![Loic NGOU](link_to_your_photo)
+<img src="https://github.com/loicgeek/loicgeek/blob/main/Loic%20vantaart.png?raw=true" alt="image" width="auto" height="200px">
 
 ---
 
