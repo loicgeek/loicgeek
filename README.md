@@ -33,7 +33,7 @@ Dedicated Flutter Tech Lead with expertise in architectural design, code reviews
 #### [ Chairwatch] - Freelance Frontend Developer  
 * NY, USA, 2019 - Now
 
-- Collaborated with the development team to design and implement the frontend of Chairwatch, a [provide a brief description of the application's purpose].
+- Collaborated with the development team to design and implement the frontend of Chairwatch, a platform that allow users to Book Appointment from theirs favorites stores.
 - Developed responsive and user-friendly interfaces using Flutter for mobile and Vue.js for web, contributing to an enhanced user experience.
 - Conducted regular code reviews and implemented best practices to ensure the quality and maintainability of the frontend codebase.
 - Collaborated with UX/UI designers to translate design mockups into functional and aesthetically pleasing user interfaces.
