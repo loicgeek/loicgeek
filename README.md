@@ -46,10 +46,8 @@ Dedicated Flutter Tech Lead with expertise in architectural design, code reviews
 
 ### Education
 
-#### [Degree Earned] - [Institution Name]  
-*Graduation Date*
-
-- Relevant coursework or thesis/project details.
+#### [Bachelor Degree] - [University of Douala]  
+* 2018 *
 
 ---
 
