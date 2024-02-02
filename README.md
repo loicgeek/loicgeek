@@ -1,59 +1,103 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/loicgeek🇨🇲#5376">
-  <img align="left" alt="Loic's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/ngou_loic">
-  <img align="left" alt="Loic NGOU | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/loic-ngou/">
-  <img align="left" alt="Loic's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### Loic NGOU
+
+Douala, Cameroon  
++237 690441515 <br>
+loic.ngou98@gmail.com   
+https://linkedin.com/in/loic-ngou
+
+![Loic NGOU](link_to_your_photo)
+
+---
+
+### Professional Summary
+
+Dedicated Flutter Tech Lead with expertise in architectural design, code reviews, and team collaboration. Proven track record in leading successful projects and fostering a culture of excellence. Committed to staying updated on the latest industry trends.
+
+---
+
+### Professional Experience
+
+#### [Current Employer - Neero] - Flutter Tech Lead  
+* Douala, Cameroon, 2022 - Now
+
+- Led the design and implementation of Flutter architecture for Neero's financial application, ensuring scalability and performance.
+- Conducted regular code reviews, fostering a culture of code quality and knowledge sharing within the team.
+- Collaborated with cross-functional teams, including backend developers, UI/UX designers, and QA engineers, for seamless integration of Flutter components.
+- Assigned tasks to the Flutter development team, managing timelines and ensuring project milestones were met.
+- Provided mentorship and guidance to team members, organizing training sessions to enhance Flutter development skills.
+- Addressed complex technical issues, finding innovative solutions and ensuring the resolution of bugs in the Flutter implementation.
+- Communicated project progress, challenges, and achievements to stakeholders, maintaining transparency and collaboration.
+- Enforced coding standards and best practices, implementing CI/CD pipelines for efficient development processes.
+- Stayed updated with the latest trends in Flutter development, ensuring the team remained at the forefront of industry advancements.
+
+#### [ Chairwatch] - Freelance Frontend Developer  
+* NY, USA, 2019 - Now
+
+- Collaborated with the development team to design and implement the frontend of Chairwatch, a [provide a brief description of the application's purpose].
+- Developed responsive and user-friendly interfaces using Flutter for mobile and Vue.js for web, contributing to an enhanced user experience.
+- Conducted regular code reviews and implemented best practices to ensure the quality and maintainability of the frontend codebase.
+- Collaborated with UX/UI designers to translate design mockups into functional and aesthetically pleasing user interfaces.
+- Participated in agile development processes, contributing to sprint planning, and ensuring timely delivery of frontend features.
+- Worked closely with backend developers to integrate frontend components with the Chairwatch backend, ensuring seamless functionality.
+- Implemented and maintained test suites to ensure the reliability and stability of the frontend application.
 
 
-![](https://komarev.com/ghpvc/?username=loicgeek)
+---
 
-<br />
+### Education
 
-hi, i'm [Loic NGOU](https://ntech-services.com/), a passionate self-taught full stack web and mobile application developer and a freelance software engineer from Cameroon. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+#### [Degree Earned] - [Institution Name]  
+*Graduation Date*
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+- Relevant coursework or thesis/project details.
 
+---
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:loic.ngou98@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+### Skills
 
-**languages and tools:**  
+- Flutter Development
+- Vue.js Development
+- Frontend Development
+- Architecture Design
+- Code Reviews
+- Team Collaboration
+- Project Planning
+- Mentoring and Training
+- Troubleshooting
+- Quality Assurance
+- Stakeholder Communication
+- Documentation
+- Coding Standards
+- CI/CD Implementation
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+---
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Dart/Flutter   3 hrs 15 mins   ██████████████░░░░░░░░░░░   56.58 % 
-Laravel          1 hr 4 mins     ████▓░░░░░░░░░░░░░░░░░░░░   22.63 % 
-VueJs   54 mins         ████░░░░░░░░░░░░░░░░░░░░░   20.79 % 
-```
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/loicgeek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-📈 **my github stats**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=loicgeek&show_icons=true&theme=gotham" alt="loicgeek" />
+### Projects
 
 
 
+#### [njoka360booth.com] - [Fullstack Laravel & Flutter]  
+*1 year*
 
+- Developed and launched njoka360booth.com, an innovative application specializing in generating 360 slow-motion videos with overlays.
+- Implemented responsive design using Flutter for mobile and Vue.js for web, ensuring an optimal user experience across devices.
+- Collaborated closely with team members and stakeholders to deliver key features, including real-time slow-motion video rendering and customizable overlays.
+- Conducted code reviews and maintained coding standards to ensure the quality and stability of the application.
+- Successfully integrated cutting-edge technologies for 360-degree video capture and slow-motion processing.
+- Achieved [mention any specific achievements or positive outcomes], contributing to the overall success of the project.
+
+
+---
+
+### Achievements
+
+- Successfully implemented Flutter architecture, resulting in improved scalability and performance for Neero's financial application.
+- Contributed to the development and enhancement of Chairwatch, ensuring a seamless and user-friendly frontend experience.
+- Launched njoka360booth.com, achieving user subscription with Stripe payment.
+
+---
+
+
+### References
+
+*Available upon request.*
